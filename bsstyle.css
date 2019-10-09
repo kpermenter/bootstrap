@@ -1,0 +1,19 @@
+.block {
+    height: 200px;
+    background-color: blue;
+}
+
+.block-red {
+    height: 200px;
+    background-color: red; 
+}
+
+.block-blue {
+    height: 200px;
+    background-color: blue;
+}
+
+.block-yellow {
+    height: 200px;
+    background-color: yellow;
+}
